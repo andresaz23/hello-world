@@ -1,4 +1,5 @@
 # hello-world
-My first repository in GitHub
 
-just making another  tutorial.
+Hi humans!
+
+just making another tutorial about commit changes.
